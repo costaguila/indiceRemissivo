@@ -1,0 +1,7 @@
+Linha 1: Good programming is not learned from
+Linha 2: generalities, but by seeing how significant
+Linha 3: programs can be made clean, easy to
+Linha 4: read, easy to maintain and modify,
+Linha 5: human-engineered, efficient, and reliable,
+Linha 6: by the application of common sense and
+Linha 7: by the use of good programming practices.
